@@ -8,7 +8,7 @@ Simple Infinite Scrolling Brick
 $ npm install infinite-scroll
 ```
 
-## Usage
+## Usage Example
 
 ```js
 var InfiniteScroll = require('infinite-scroll')
