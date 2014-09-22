@@ -1,0 +1,27 @@
+{
+  "name": "infinite-scroll",
+  "version": "0.0.0",
+  "description": "Simple Infinite Scrolling Brick",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "brick",
+    "dom",
+    "browser",
+    "infinite",
+    "scroll",
+    "scrolling"
+  ],
+  "repository": {
+    "url": "git@github.com:bricks/infinite-scroll.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "on-off": "0.0.2",
+    "debounce-fn": "0.0.0"
+  }
+}
