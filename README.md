@@ -12,6 +12,7 @@ $ npm install infinite-scroll
 
 ```js
 var InfiniteScroll = require('infinite-scroll')
+var Brick = require('brick')
 var request = require('request')
 
 module.exports = Brick(InfiniteScroll, {
